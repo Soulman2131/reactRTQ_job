@@ -1,0 +1,88 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Développeur React Sénior",
+      "type": "A temps-plein",
+      "location": "Paris, FR",
+      "description": "Nous recherchons un développeur Front-End talentueux pour rejoindre notre équipe à Paris. Le candidat idéal aura de solides compétences en HTML, CSS et JavaScript, ainsi qu'une expérience de travail avec des frameworks JavaScript modernes tels que React ou Angular.",
+      "salary": "€70K - €80K",
+      "company": {
+        "name": "Orange",
+        "description": "Orange est une entreprise technologique leader spécialisée dans le développement web et les solutions numériques. Nous sommes fiers de fournir des produits et services de haute qualité à nos clients tout en favorisant un environnement de travail collaboratif et innovant.",
+        "contactEmail": "contact@orange.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Développeur Front-End  (React & Redux)",
+      "type": "A distance",
+      "location": "Narbonne, FR",
+      "description": "Rejoignez notre équipe en tant que développeur Front-End sous le soleil de Narbonne. Nous recherchons une personne motivée et passionnée par la création d'applications Web belles et réactives. Une expérience des principes de conception UI/UX et une grande attention aux détails sont hautement souhaitables.",
+      "salary": "€70K - €80K",
+      "company": {
+        "name": "Ven Solutions",
+        "description": "Ven Solutions est une agence de création spécialisée dans la conception et le développement numérique. Notre équipe se consacre à repousser les limites de la créativité et de l'innovation pour fournir des résultats exceptionnels à nos clients.",
+        "contactEmail": "sdrame@gmail.com",
+        "contactPhone": "0767736663"
+      }
+    },
+    {
+      "id": "3",
+      "title": "Développeur React.JS",
+      "type": "A temps-partiel",
+      "location": "Lyon, FR",
+      "description": "Etes-vous passionné par le développement front-end ? Rejoignez notre équipe dans le quartier animé de Massy, et travaillez sur des projets passionnants qui font la différence. Nous offrons une rémunération compétitive et un environnement de travail collaboratif où vos idées sont valorisées.",
+      "salary": "€70K - €80K",
+      "company": {
+        "name": "Cloudify",
+        "description": "Cloudify est une entreprise technologique leader spécialisée dans les solutions numériques pour les entreprises de toutes tailles. En mettant l'accent sur l'innovation et la satisfaction du client, nous nous engageons à fournir des produits et services de pointe. ",
+        "contactEmail": "sdrame@gmail.com",
+        "contactPhone": "0767736663"
+      }
+    },
+    {
+      "id": "4",
+      "title": "Développeur React Front-End",
+      "type": "A distance",
+      "location": "Toulouse, FR",
+      "description": "Rejoignez notre équipe en tant que développeur front-end à temps partiel dans la belle ville de Toulouse. Nous recherchons une personne motivée et passionnée par la création d'expériences utilisateur engageantes. Ce poste offre des horaires flexibles et la possibilité de travailler à distance.",
+      "salary": "€60K - €70K",
+      "company": {
+        "name": "Alpha Elite",
+        "description": "Alpha Elite est une startup dynamique spécialisée dans le marketing numérique et le développement web. Nous nous engageons à favoriser un lieu de travail diversifié et inclusif où la créativité et l’innovation prospèrent.",
+        "contactEmail": "contact@adipisicingelit.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "5",
+      "title": " Développeur Full-Stack React ",
+      "type": "A temps-plein",
+      "location": "Montpellier, FR",
+      "description": "Opportunité passionnante pour un développeur front-end à temps plein dans la ville animée de Montpellier. Nous recherchons une personne talentueuse passionnée par la création d'applications Web élégantes et évolutives. Rejoignez notre équipe et ayez un impact !",
+      "salary": "€90K - €100K",
+      "company": {
+        "name": "Browning Technologies",
+        "description": "Browning Technologies est une entreprise technologique en croissance rapide, spécialisée dans les solutions de commerce électronique. Nous offrons un environnement de travail dynamique et collaboratif où les employés sont encouragés à penser de manière créative et à innover.",
+        "contactEmail": "contact@consecteturadipisicing.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "6",
+      "title": "Développeur React Native",
+      "type": "A temps-partiel",
+      "location": "Lille, FR",
+      "description": "Rejoignez notre équipe en tant que développeur Front-End dans la belle ville de Lille. Nous recherchons une personne compétente et enthousiaste pour nous aider à créer des solutions Web innovantes. Salaire compétitif et excellents avantages sociaux disponibles.",
+      "salary": "€100K - €110K",
+      "company": {
+        "name": "Teck Solutions INC",
+        "description": "Teck Solutions est une entreprise technologique leader spécialisée dans le développement de logiciels et le marketing numérique. Nous nous engageons à offrir à nos clients des solutions de pointe et à nos employés un environnement de travail solidaire et enrichissant.",
+        "contactEmail": "contact@ipsumlorem.com",
+        "contactPhone": "555-555-5555"
+      }
+    }
+  ]
+}
